@@ -12,7 +12,7 @@ venv/
 config.py
 quiz_dump.docx
 data.py
-utils.py
+
 # 자동 생성 파일
 questions.json
 
