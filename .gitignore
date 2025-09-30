@@ -1,0 +1,18 @@
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 가상환경
+venv/
+.env
+
+# 
+config.py
+quiz_dump.docx
+data.py
+utils.py
+# 자동 생성 파일
+questions.json
+
